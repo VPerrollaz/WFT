@@ -13,3 +13,4 @@ On va chercher à implémenter un algorithme de wave front tracking pour la rés
 - Découpler au maximum en particulier du solveur de Riemann
 - Faire attention aux erreurs d'arrondis pour éviter les traversées de fronts
 - Interactions multiples ou algorithme pour ajuster les vitesses de fronts
+- Implémenter quelques solveurs explicites et éventuellement un solveur générique
